@@ -1,0 +1,4 @@
+revisar função excluir arquivo
+revisar int e int64
+ver sobre bit or
+ver sobre permissões
